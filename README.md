@@ -1,5 +1,5 @@
 # Dogs-and-cats-classification
-CNN
+
 Dogs and cats classification using CNN(Neural Networks)
 
 Environment: Goggle colab
